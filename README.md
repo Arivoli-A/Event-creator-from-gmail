@@ -1,4 +1,4 @@
-## Automatically create Google calender events from Gmail
+## Event creator : Automatically create Google calender events from Gmail
 
 This is a script to run in Google's [Apps Script](https://developers.google.com/apps-script) to automatically create events in google calender from gmail.
 
